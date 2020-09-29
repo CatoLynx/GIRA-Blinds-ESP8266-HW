@@ -1,0 +1,3 @@
+- Add holes for rubber thing
+- Move ESP8266 away from plastic areas where 3mm height is not possible
+- Fix the fucking "ESP82667" typo
